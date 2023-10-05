@@ -1,4 +1,4 @@
-Hi, I’m Chad Bustard, and I'm a data scientist, AI engineer, and computational astrophysicist building high-performance simulations and machine learning models to study galaxy evolution. I'm currently a Climatebase Fellow (Cohort 4) educating myself on ways to apply AI and data-driven insights to fight the climate crisis. I was previously a Postdoctoral Fellow at the Kavli Institute for Theoretical Astrophysics in Santa Barbara, CA and an NSF Graduate Fellow at University of Wisconsin - Madison. 
+Hi, I’m Chad Bustard, and I'm a data scientist, AI engineer, and computational astrophysicist building high-performance simulations and machine learning models to study galaxy evolution. I'm currently a Climatebase Fellow (Cohort 4) educating myself on ways to apply AI and data-driven insights to fight the climate crisis. I was previously a Postdoctoral Fellow at the Kavli Institute for Theoretical Astrophysics in Santa Barbara, CA and an NSF Graduate Fellow in the University of Wisconsin - Madison physics department (Physics PhD 2020). 
 
 To learn more about me, check out my personal website: https://bustardchad.github.io
 
