@@ -1,11 +1,9 @@
-Hi, I’m Chad Bustard, currently a Postdoctoral Fellow at the Kavli Institute for Theoretical Astrophysics in Santa Barbara, CA.
+Hi, I’m Chad Bustard, and I'm a data scientist, AI engineer, and computational astrophysicist building high-performance simulations and machine learning models to study galaxy evolution. I'm currently a Climatebase Fellow (Cohort 4) educating myself on ways to apply AI and data-driven insights to fight the climate crisis. I was previously a Postdoctoral Fellow at the Kavli Institute for Theoretical Astrophysics in Santa Barbara, CA and an NSF Graduate Fellow at University of Wisconsin - Madison. 
 
-I specialize in theoretical and computational astrophysics, specifically to better understand galaxy evolution. On a day-to-day basis, that means I utilize and extend hydrodynamic (HD) and magnetohydrodynamic (MHD) simulation frameworks in Fortran and C/C++, run simulations on national supercomputers, and analyze results with Python-based analysis and visualization tools.
-
-To learn more about my specific research projects, check out my personal website: https://bustardchad.wixsite.com/mysite
+To learn more about me, check out my personal website: https://bustardchad.github.io
 
 
-To get in touch, please contact me at bustard@ucsb.edu.
+To get in touch, please contact me at bustardchad@gmail.com
 
 <!---
 bustardchad/bustardchad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
